@@ -29,7 +29,7 @@ npm install
 
 2. En el directorio raíz del proyecto, crea un archivo llamado `.env` y agrega la siguiente línea:
 
-`REACT_APP_GIPHY_API_KEY=TU_API_KEY`
+`VITE_GIPHY_API_KEY=TU_API_KEY`
 
 ## Uso
 
