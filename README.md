@@ -1,6 +1,6 @@
 # GifApp AFVA
-
-[GifApp AFVA](https://gifappafva.netlify.app/)
+Pagina de Ejemplo:
+🌐 [GifApp AFVA](https://gifappafva.netlify.app/)
 
 ## Descripción
 
@@ -37,7 +37,7 @@ npm install
 
 `npm run dev`
 
-2. Abre tu navegador web y accede a puerto que te `vite` para ver la aplicación.
+2. Abre tu navegador web y accede a puerto que se visualiza en: `vite` para ver la aplicación.
 
 3. En la página principal, puedes ingresar palabras clave en el campo de búsqueda y presionar Enter para obtener los gifs relacionados.
 
