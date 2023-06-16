@@ -1,6 +1,6 @@
 # GifApp AFVA
 
-![GifApp AFVA](https://example.com/gifapp.png)
+![GifApp AFVA](https://gifappafva.netlify.app/)
 
 ## Descripción
 
